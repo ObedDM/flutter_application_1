@@ -1,20 +1,22 @@
-# Flutter Login Animado 🐻✨
+# Animated Flutter Login 🐻✨
 
-Proyecto de **Flutter** para la materia **Programación de Aplicaciones Móviles**. Actualmente cuenta con un **login interactivo** con **animación de Rive** 🎨.
+**Flutter** project for the course **Mobile Application Programming**. It currently features an **interactive login** with a **Rive animation** 🎨.
 
-## Funcionalidades 🚀
-- Interfaz de **Login** 🖥️.  
-- Campos de **Email** ✉️ y **Password** 🔒 con interacción con una animación de Rive 🐻.  
-- **Mostrar/ocultar contraseña** 👁️‍🗨️.  
-- Enlaces de **registro** 📝 y **recuperación de contraseña** 🔑.  
-- Personaje animado que reacciona según la acción del usuario 😄😢.
+## Features 🚀
+- **Login** interface 🖥️.  
+- **Email** ✉️ and **Password** 🔒 fields with interaction with a Rive animation 🐻.  
+- **Show/hide password** 👁️‍🗨️.  
+- **Registration** 📝 and **password recovery** 🔑 links.  
+- Animated character that reacts based on user actions 😄😢.
 
-## Tecnologías 🛠️
+## Technologies 🛠️
 - Flutter & Dart  
-- Rive (animaciones interactivas) ✨
+- Rive (interactive animations) ✨
 
-## Próximos pasos 🔮
-- Conectar a backend real 🌐.  
-- Validar inputs y animaciones según resultados ✅❌.  
-- Agregar pantalla de registro 📝.  
-- Nuevas funcionalidades 🎉.
+## Next Steps 🔮
+- Connect to a real backend 🌐.  
+- Validate inputs and trigger animations based on results ✅❌.  
+- Add registration screen 📝.  
+- New features 🎉...
+
+![Login Animation](assets/Flutter_osito.gif)
