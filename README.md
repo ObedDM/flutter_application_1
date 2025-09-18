@@ -1,16 +1,20 @@
-# flutter_application_1
+# Flutter Login Animado 🐻✨
 
-A new Flutter project.
+Proyecto de **Flutter** para la materia **Programación de Aplicaciones Móviles**. Actualmente cuenta con un **login interactivo** con **animación de Rive** 🎨.
 
-## Getting Started
+## Funcionalidades 🚀
+- Interfaz de **Login** 🖥️.  
+- Campos de **Email** ✉️ y **Password** 🔒 con interacción con una animación de Rive 🐻.  
+- **Mostrar/ocultar contraseña** 👁️‍🗨️.  
+- Enlaces de **registro** 📝 y **recuperación de contraseña** 🔑.  
+- Personaje animado que reacciona según la acción del usuario 😄😢.
 
-This project is a starting point for a Flutter application.
+## Tecnologías 🛠️
+- Flutter & Dart  
+- Rive (animaciones interactivas) ✨
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Próximos pasos 🔮
+- Conectar a backend real 🌐.  
+- Validar inputs y animaciones según resultados ✅❌.  
+- Agregar pantalla de registro 📝.  
+- Nuevas funcionalidades 🎉.
